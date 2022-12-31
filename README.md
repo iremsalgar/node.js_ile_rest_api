@@ -33,3 +33,13 @@ Genellikle, localhost adresine bağlanırken bir port numarası da belirtilir. B
 buradan indirebiliriz
 
 Ardından get, delete, post gibi eklediğimiz komutları buradan deneyebiliriz.
+
+
+![Screenshot from 2022-12-31 17-45-51](https://user-images.githubusercontent.com/74204825/210148567-66a0cad4-c24f-4a74-9cd7-5c65521478ed.png)
+
+
+![Screenshot from 2022-12-31 17-48-51](https://user-images.githubusercontent.com/74204825/210148571-9199a3f7-add0-4952-8e08-326299627e56.png)
+
+
+
+
