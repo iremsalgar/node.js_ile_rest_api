@@ -8,6 +8,7 @@ npm install --save-dev nodemon
 
 npm run start
 
+REST (Representational State Transfer) API, bir web servisinin veri ve işlevlerine erişmek için kullanılan bir protokoldür. REST API'leri, HTTP isteklerini kullanarak bir sunucudan veri veya bir işlevin çalıştırılmasını istemek için kullanılır. Bu istekler genelde HTTP metotları olarak adlandırılır ve en yaygın olarak GET, POST, PUT ve DELETE metotlarıdır. REST API'leri, web uygulamalarının birbirleriyle ve diğer sistemlerle etkileşim kurmasını sağlar. Örneğin, bir mobil uygulama veya bir masaüstü uygulaması, bir web servisinin veri ve işlevlerine erişmek için REST API'lerini kullanabilir.
 
 ##bu klasör heroku-kablosuzkedi videosu baz alınarak yapılmıştır
 
